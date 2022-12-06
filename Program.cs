@@ -18,4 +18,15 @@ void Array(string[] Array1, string[] Array2)
         }
     }
 }
+void PrintArray(string[] Array)
+{
+    for (int i = 0; i < Array.Length; i++)
+    {
+        Console.Write($"{Array[i]} ");
+    }
+    Console.WriteLine();
+}
+Array(Array1, Array2);
+PrintArray(Array2);
+
 
