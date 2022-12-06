@@ -8,3 +8,9 @@
 "Сount" увеличивается на 1 и возвращается к циклу "For".
 В цикле "For" i увеличивается на 1 и так далее по аналогии. 
 
+Ссылка на блок-схему app.diagrams.net:
+https://app.diagrams.net/#G1noJ1CsF0y1GlpzkOtNVbPFCFgUt5SP15
+
+
+
+
